@@ -1,16 +1,16 @@
-### Hi there 👋
+# How do you do?
 
-<!--
-**lizbaka/lizbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm lizbaka, a student from Harbin Institute of Technology Shenzhen and majored in Computer Science.
 
-Here are some ideas to get you started:
+![lizbaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizbaka&show_icons=true&theme=radical&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy:
+
+- Coding
+- Gaming
+- ACG
+- etc.
+
+Let's make this world better!
+
+: )
