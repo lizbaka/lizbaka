@@ -10,4 +10,4 @@ Enjoy:
 - Badminton
 - etc.
 
-Stay focused...
+Stay focused, stay dynamic.
