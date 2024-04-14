@@ -1,8 +1,8 @@
 # Good to see you!
 
-I'm lizbaka (or simply liz, 梨子 in Chinese), A Computer Science student at Harbin Institute of Technology Shenzhen.
+I'm lizbaka (or simply liz, 梨子 in Chinese), A Computer Science postgraduate student.
 
-Enjoy:
+I Enjoy:
 
 - Coding
 - Gaming
