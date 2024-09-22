@@ -1,13 +1,14 @@
-# Good to see you!
+# Good to see you!🤗
 
-I'm lizbaka (or simply liz, 梨子 in Chinese), A Computer Science postgraduate student.
+I'm lizbaka (or simply liz, 梨子🍐/栗子🌰 in Chinese), currently a postgraduate student majoring in Computer Science.
 
 I Enjoy:
 
-- Coding
-- Gaming
-- ACG
-- Badminton
-- etc.
+- Coding👨‍💻
+- Gaming🎮
+- ACGN🌸
+- Badminton🏸
+- Swimming🏊‍♂️
+- Sleeping🛌
 
 Stay focused, stay dynamic.
